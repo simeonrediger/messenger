@@ -1,0 +1,15 @@
+{
+  "name": "messenger",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.1.1",
+    "eslint": "^10.15.0",
+    "prettier": "^3.10.1"
+  }
+}
